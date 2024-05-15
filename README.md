@@ -17,7 +17,7 @@ The options for spacecheck.sh can be:
 
 
 ## Evaluation
-Grade given: [to be determined]
+18
 
 ## Authors
 * [Henrique Teixeira] - [@henriqueft04]
