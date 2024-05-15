@@ -17,7 +17,7 @@ The options for spacecheck.sh can be:
 
 
 ## Evaluation
-18
+18/20
 
 ## Authors
 * [Henrique Teixeira] - [@henriqueft04]
